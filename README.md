@@ -66,27 +66,19 @@ It is highly recommended to create a virtual environment for your project. This 
 
 ### Step 6: Reinstall requirements.txt
 
-    ```console
-    pip freeze > requirements.txt
-    ```
-    
-    or
-
-    ```console
-    pip 
-    ```
-
+```console
+pip freeze > requirements.txt
+```
 
 ### Step 7: TO RUN THE SERVER
 
-    ```console
-    python -m api.main
-    ```
+```console
+python -m api.main
+```
 
 ### TO RUN OTHER UTILITIES:
 
 #### generateRandomText.py
-
-    ```console
-    python api/utilities/generateRandomText.py
-    ```
+```console
+python api/utilities/generateRandomText.py
+```
