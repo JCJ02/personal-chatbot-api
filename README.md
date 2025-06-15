@@ -72,6 +72,7 @@ It is highly recommended to create a virtual environment for your project. This 
     or
     ```console
     pip 
+    ```
 
 
 ### Step 7: TO RUN THE SERVER
