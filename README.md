@@ -69,7 +69,9 @@ It is highly recommended to create a virtual environment for your project. This 
     ```console
     pip freeze > requirements.txt
     ```
+    
     or
+
     ```console
     pip 
     ```
@@ -84,6 +86,7 @@ It is highly recommended to create a virtual environment for your project. This 
 ### TO RUN OTHER UTILITIES:
 
 #### generateRandomText.py
+
     ```console
     python api/utilities/generateRandomText.py
     ```
