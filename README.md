@@ -2,7 +2,7 @@
 
 ## Kimmy is a smart, friendly, and helpful AI chatbot designed to be my portfolio's ultimate tour guide. She's here to answer all your questions about me (JC) — from my work experience, technical skills, and portfolio projects to my goals, passions, and accolades.
 
-# How to setup my personal ChatBot?
+# How to Setup My Personal ChatBot?
 
 Learn more about the following technologies:
 - [Python](https://www.python.org/)
@@ -28,7 +28,7 @@ C:\Users\<YourUsername>\AppData\Roaming\Python\PythonXX\Scripts\
 - Click <strong>OK</strong> to save the changes.
 
 ### Step 4: Cloning Repository
-Use `git clone` to clone this repo:
+Use `git clone` to clone this repository:
 
 ```console
 $ git clone https://github.com/JCJ02/invoice-api.git
@@ -72,3 +72,17 @@ It is highly recommended to create a virtual environment for your project. This 
     or
     ```console
     pip 
+
+
+### Step 7: TO RUN THE SERVER
+
+    ```console
+    python -m api.main
+    ```
+
+### TO RUN OTHER UTILITIES:
+
+#### generateRandomText.py
+    ```console
+    python api/utilities/generateRandomText.py
+    ```
